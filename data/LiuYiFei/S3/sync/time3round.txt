@@ -1,0 +1,63 @@
+ 
+Date: 05-26-2023
+time stamp: 7452
+seconds after midnight: 33202.06
+local time: 9:13:22
+ 
+Date: 05-26-2023
+time stamp: 8770
+seconds after midnight: 33265.54
+local time: 9:14:25
+Happy Test 1_22
+Happy OnsetTime: 681453
+Happy OffsetTime: 687016
+Neutral Test 10
+Neutral OnsetTime: 691780
+Neutral OffsetTime: 694391
+restState OnsetTime: 707196
+restState OffsetTime: 887196
+Happy 3_5
+Happy OnsetTime: 907418
+Happy OffsetTime: 1130820
+Proud proud_31
+Proud OnsetTime: 1200636
+Proud OffsetTime: 1442146
+Sad 4
+Sad OnsetTime: 1525770
+Sad OffsetTime: 1706170
+Neutral 7
+Neutral OnsetTime: 1788589
+Neutral OffsetTime: 1916986
+Fear 3_32
+Fear OnsetTime: 2014688
+Fear OffsetTime: 2202052
+Sad 2_22
+Sad OnsetTime: 2275372
+Sad OffsetTime: 2465750
+Proud proud_33
+Proud OnsetTime: 2534321
+Proud OffsetTime: 2731866
+Neutral 8
+Neutral OnsetTime: 2813224
+Neutral OffsetTime: 3023616
+Sad 1_14
+Sad OnsetTime: 3095197
+Sad OffsetTime: 3336564
+Fear 3_21
+Fear OnsetTime: 3418379
+Fear OffsetTime: 3591754
+Proud proud_36
+Proud OnsetTime: 3663747
+Proud OffsetTime: 3899862
+Neutral 9
+Neutral OnsetTime: 3965607
+Neutral OffsetTime: 4159996
+Happy 3_7
+Happy OnsetTime: 4240189
+Happy OffsetTime: 4427594
+Fear 3_13
+Fear OnsetTime: 4505111
+Fear OffsetTime: 4737510
+Happy 5
+Happy OnsetTime: 4804919
+Happy OffsetTime: 5017311
